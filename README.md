@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speercolin&label=Profile%20views&color=0e75b6&style=flat" alt="speercolin" /> </p>
 
-- 🌱 I’m currently pursuing **Data Science and Analytics.**
+- 🌱 I’m currently pursuing a career in **Data Science and Analytics.**
 
 - 📫 How to reach me **speercolin06@gmail.com**
 
