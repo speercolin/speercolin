@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speercolin&label=Profile%20views&color=0e75b6&style=flat" alt="speercolin" /> </p>
 
-- 💻 I’m currently conducting biomedical research as a Biostatistician at the Wake Forest University School of Medicine.
+- 💻 I’m currently conducting biomedical research as a **Biostatistician** at the **Wake Forest University School of Medicine**.
 
 - 📫 How to reach me **speercolin06@gmail.com**
 
